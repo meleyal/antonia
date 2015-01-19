@@ -19,4 +19,4 @@ author:
   first_name: Antonia
   last_name: Chain
 ---
-<p>This is a useful resource for people interested in writing short fiction - especially flash fiction for women's magazines.  Whether I have considered magazine submissions or not, the site has certainly prompted some useful ideas for writing exercises.  I hope you find it useful too.  <a href="http://womagwriter.blogspot.co.uk/">http://womagwriter.blogspot.co.uk/</a></p>
+This is a useful resource for people interested in writing short fiction - especially flash fiction for women's magazines.  Whether I have considered magazine submissions or not, the site has certainly prompted some useful ideas for writing exercises.  I hope you find it useful too.  [http://womagwriter.blogspot.co.uk/](http://womagwriter.blogspot.co.uk/)

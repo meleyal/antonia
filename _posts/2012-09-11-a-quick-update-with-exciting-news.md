@@ -17,4 +17,4 @@ author:
   first_name: Antonia
   last_name: Chain
 ---
-<p>From tomorrow, this blog will be available for download to your Kindle.  More details to follow shortly.</p>
+From tomorrow, this blog will be available for download to your Kindle.  More details to follow shortly.

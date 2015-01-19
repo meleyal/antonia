@@ -18,4 +18,4 @@ author:
   first_name: Antonia
   last_name: Chain
 ---
-<p>My blog is now available as a download to Kindle - just type 'Antonia Chain' into the search box on the main Amazon site and it will come up.  If anyone wants to write a review, please do.  I won't be writing my own of course!  We all know about the recent ...ahem... 'sock puppet' scandals.</p>
+My blog is now available as a download to Kindle - just type 'Antonia Chain' into the search box on the main Amazon site and it will come up.  If anyone wants to write a review, please do.  I won't be writing my own of course!  We all know about the recent ...ahem... 'sock puppet' scandals.
