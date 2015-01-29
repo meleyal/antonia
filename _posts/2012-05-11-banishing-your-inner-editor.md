@@ -4,24 +4,13 @@ title: Banishing your inner editor
 date: 2012-05-11 10:09:47.000000000 +02:00
 categories:
 - Help for Writers
-tags: []
-status: publish
-type: post
-published: true
 meta:
-  _edit_last: '1'
   dsq_thread_id: '838403614'
-author:
-  login: antonia
-  email: antoniachainuk@gmail.com
-  display_name: Antonia Chain
-  first_name: Antonia
-  last_name: Chain
 ---
 
 Some time ago I was reading a Tess Gerritson novel and fawned, just a little bit, over how well she had written a particularly effective and utterly gruesome scene. Unexpectedly my Dad popped into my thoughts and I could almost hear his disappointment should I ever write such a script.  My lovely (proud and very supportive) Dad is the manifestation of my internal editor. He would prefer me to write about nice things, in a nice way, befitting a nice person.
 
-<!--more-->
+---
 
 My Dad has for many, many years learned to cope with words I have shoehorned into his routine vocabulary – such as ‘feminism’ and ‘vegetarian’ but it would be a step too far to expect him to cope with me using words like ‘fuck’.  Asking my internal editor to kindly leave the creative room in my head while I get text nasty is an ongoing personal challenge.  I have to write the kind of stories I like, that chill me, that offend some.
 

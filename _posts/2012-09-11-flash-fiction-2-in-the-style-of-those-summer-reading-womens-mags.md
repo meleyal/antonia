@@ -22,6 +22,8 @@ Because I have been a bit out of the loop of writing regularly I decided to do a
 
 She had done it.  There it was, a vast sum of money taken forever to save, tucked away in the bank account set up in her maiden name away from prying eyes.  It started with the scratch card – wining the five thousand pounds put the idea into her head. It had been hard keeping the win secret too but it was much more difficult keeping her plans since hidden. It took a long time to save because she had to be careful not to give the game away but eventually bit by bit week by week the five thousand was added to until she had enough. It was a tidy sum.  No-one but her knew it was there especially not Carl – he didn’t suspect a thing.  This money was going to change her life.
 
+---
+
 He was a lovely bloke, as handsome as he was seven years ago when they married, and still so affectionate and caring but he could be a bit dim sometimes – oblivious to anything but football and the team.  She couldn’t help but feeling a bit disappointed that he hadn’t even noticed that the meals weren’t quite up to the usual quality whilst she had been saving but that was typical really. She had to work hard at the smile when clearing up the assorted crisp packets and beer cans left all over her lounge by the lads he invited round every Saturday afternoon to watch the match.  She was completely sick of it.  “Oh babes you are just so lovely” he would say, grabbing her round the waist and lifting her into the air.  ‘You have no idea’ she would think to herself smiling.
 
 It’s amazing what can be found on the internet.  It was surprisingly easy with just a few clicks of the mouse to find the contacts she needed to put her plans into action.  She didn’t know she had it in her to be so devious!

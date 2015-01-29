@@ -1,22 +1,20 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-      </a>
-
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-
+<div id="masthead">
+  <div id="branding">
+    <h1><a id="logo" href="/"></a></h1>
+    <h3 id="tagline">{{ site.description }}</h3>
   </div>
+  <div id="banner" onclick="location.href='/';" style="cursor: pointer;">
+    <div id="banner-credit" title="Creative Commons">
+      Banner images courtesy of
+      <a href="http://www.flickr.com/photos/shrimphead/">shrimphead</a> (<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC by-nc-sa</a>)
+      <a href="http://www.flickr.com/photos/milesbeyondthemoon/">ms.bailey</a> (<a href="http://creativecommons.org/licenses/by/2.0/">CC by</a>)
+    </div>
+  </div>
+</div>
 
-</header>
+<div id="nav">
+  <a href="/">Home</a>
+  <a href="/categories.html">Categories</a>
+  <a href="{{ site.facebook_url }}">Facebook</a>
+  <a href="{{ site.twitter_url }}">Twitter</a>
+</div>

@@ -20,7 +20,7 @@ author:
 
 Some years ago before I discovered the joy of story telling, I teased a friend about her habit of getting up every day at 5:30 to write and asked how on earth she could resist the lure of the warm bed on a dark winter morning.  She said “when people ask me why, I say I don’t understand the question: not writing to me would feel like not breathing”.
 
-<!--more-->
+---
 
 For the past few days I have been busy preparing to move homes.  As anyone who has packed up a house will testify, it is exhausting and seemingly endless work.  My partner has worked equally hard and I haven’t felt able to take time out to, y’know, write words which might not even see light of day in a published manuscript.  It felt like a selfish and unfair act to prioritise writing over household practicalities and like the friend from years ago I feel the breath being sucked from me.  Somewhere over on the horizon I see hundreds of lovely, delicious words running away from me, and I am irritable and itchy to corral them back onto my pages.
 

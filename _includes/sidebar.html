@@ -1,0 +1,36 @@
+<div id="l_sidebar">
+  <h2>Recent Posts</h2>  
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h2>Twitter</h2>
+  <a class="twitter-timeline" data-widget-id="417782517077250048" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" width="225" height="400" lang="EN">My Tweets</a>
+</div>
+
+<div id="r_sidebar">
+  <h2>About Antonia</h2>  
+  <p>
+    <img src="{{ site.baseurl }}/images/avatar.png" width="64" style="float:right;">
+    Born in a North Eastern fishing port in England just as the Beatles started hitting the charts and grew up with a passion for mystery and suspense. When I ran out of the kind of stories I like to read, I began writing them.
+  </p>
+  <p>
+    <strong>
+      <a href="mailto:{{ site.email }}">Contact Antonia &raquo;</a>
+    </strong>
+  </p>
+  
+  <h2>Follow Antonia</h2>
+  <a href="{{ site.facebook_url }}">
+    <img width="32" src="{{ site.baseurl }}/images/icons/facebook.png" title="Facebook">
+  </a>
+  <a href="{{ site.twitter_url }}">
+    <img width="32" src="{{ site.baseurl }}/images/icons/twitter.png" title="Twitter">
+  </a>
+  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <img width="32" src="{{ site.baseurl }}/images/icons/rss.png" title="RSS">
+  </a>
+</div>
+

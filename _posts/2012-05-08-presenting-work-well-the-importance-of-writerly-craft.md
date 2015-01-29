@@ -4,23 +4,12 @@ title: Presenting work well - the importance of writerly craft
 date: 2012-05-08 12:42:10.000000000 +02:00
 categories:
 - Help for Writers
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+meta:  
   dsq_thread_id: '771918046'
-author:
-  login: antonia
-  email: antoniachainuk@gmail.com
-  display_name: Antonia Chain
-  first_name: Antonia
-  last_name: Chain
 ---
 Recently I wrote a  flash fiction piece for a women's magazine.  It was only a 700 word piece so not difficult to edit right?  Wrong.  A critical friend read it for me before it was posted and it was a good  thing she did, there were two clumsy typos and one very poor use of grammar.  If I were a magazine editor I doubt I would have give the story more than a cursory glance. After all, if the author cannot be bothered to take the time to make sure it is a quality piece of writing, why should the editor give any of their precious time to it? First impressions count.
 
-<!--more-->
+---
 
 Some things are 'basics' but in the rush to embrace self publishing, authors are taking short cuts - and the short cuts do none of us a favour in the long run.  Like many people I have embraced the Kindle and in addition to the usual priced novels, I downloaded quite a number of very low cost e-books (i.e. 99p - £1.99 UK sterling).  One or two of them were by authors known to me personally, one by an old school acquaintance, another few by mid-list paper print published authors who were releasing either novellas or older works.  From now on I will be sticking with books also out in paperback.  What most of these low cost e-books had in common was a lack of writerly craft.  Turning a word doc into an e-book is clearly still a bit of a challenge and too many e-books are awash with formatting problems but even setting aside the formatting issues, many of the books I read were not 'books' in any way I would recognise compared to printed books.  Too many had typos, weak stories, weaker characters, time-lines that didn't make sense, clunky dialogue and absence of any sense of conflict or a satisfying resolution. In short, they were hugely disappointing.  As a reader I felt somewhat conned and, importantly, I felt a distinct lack of loyalty toward authors who's work I had previously admired (and bought).  How dare they be happy to sell me second rate material?  I feel rather less inclined to buy their work again - in any media.  I was put off amateur writing completely because navigating the poor quality presentation got in the way of enjoying the story.
 
