@@ -1,5 +1,5 @@
 <div id="l_sidebar">
-  <h2>Recent Posts</h2>  
+  <h2>Recent Posts</h2>
   <ul>
     {% for post in site.posts limit:10 %}
       <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
@@ -11,7 +11,7 @@
 </div>
 
 <div id="r_sidebar">
-  <h2>About Antonia</h2>  
+  <h2>About Antonia</h2>
   <p>
     <img src="{{ site.baseurl }}/images/avatar.png" width="64" style="float:right;">
     Born in a North Eastern fishing port in England just as the Beatles started hitting the charts and grew up with a passion for mystery and suspense. When I ran out of the kind of stories I like to read, I began writing them.
@@ -21,16 +21,22 @@
       <a href="mailto:{{ site.email }}">Contact Antonia &raquo;</a>
     </strong>
   </p>
-  
+
   <h2>Follow Antonia</h2>
-  <a href="{{ site.facebook_url }}">
+  <a href="{{ site.facebook_url }}" target="_blank">
     <img width="32" src="{{ site.baseurl }}/images/icons/facebook.png" title="Facebook">
   </a>
-  <a href="{{ site.twitter_url }}">
+  <a href="{{ site.twitter_url }}" target="_blank">
     <img width="32" src="{{ site.baseurl }}/images/icons/twitter.png" title="Twitter">
   </a>
   <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
     <img width="32" src="{{ site.baseurl }}/images/icons/rss.png" title="RSS">
   </a>
-</div>
 
+  <h2>NaNoWriMo Winner</h2>
+  <p style="text-align: center;">
+    <a href="http://nanowrimo.org/" target="_blank">
+      <img src="{{ site.baseurl }}/images/nanowrimo.jpg" width="200" style="float: none;">
+    </a>
+  </p>
+</div>

@@ -7,6 +7,7 @@ url: "http://www.antoniachain.com" # the base hostname & protocol for your site
 twitter_username: AntoniaChain
 facebook_url: https://www.facebook.com/antoniachain
 twitter_url: http://twitter.com/antoniachain
+itunes_url: https://itunes.com
 excerpt_separator: "\n---\n"
 permalink: /:year/:title.html
 
