@@ -129,14 +129,14 @@ a:hover,a:active  {
 }
 
 #masthead h1 {
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 25px;
   font-weight: normal;
   padding: 0em 0 0.2em 0;
 }
 
 #masthead h3 {
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   margin: 0 0 0.75em 0;
   font-weight: normal;
   font-size: 18px;
@@ -204,7 +204,7 @@ a:hover,a:active  {
   line-height: 1.2em;
   margin: 30px 0px 3px 0px;
   padding: 20px 0px 0px 0px;
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: normal;
 }
 
@@ -244,7 +244,7 @@ a:hover,a:active  {
 #content h3 {
   color: #444444;
   font-size: 18px;
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: normal;
   margin: 25px 0px 0px 0px;
   padding: 10px 0px 10px 0px;
@@ -314,21 +314,21 @@ blockquote{
 #content blockquote p {
   margin: 0px 0px 10px 0px;
   padding: 10px 0px 0px 0px;
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 12px;
   font-style: italic;
 }
 
 .date {
   color: #B81605;
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .bt-links {
   border-bottom: 1px solid #ddd;
   margin:10px 0px 10px 0px;
   padding: 10px 0px 10px 5px;
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 /************************************************
@@ -568,7 +568,7 @@ img.avatar {
 }
 
 .auth-name {
-  font-family: Brawler, Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 16px;
   color:#000;
 }
@@ -641,6 +641,15 @@ h2#comments, h2#respond {
 
 .fpm_readon a:hover {
   text-decoration: none;
+}
+
+.icon-link {
+
+  img {
+    border-radius: 20%;
+    background: #eee;
+    vertical-align: middle;
+  }
 }
 
 /* Utils */

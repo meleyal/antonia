@@ -23,15 +23,38 @@
   </p>
 
   <h2>Follow Antonia</h2>
-  <a href="{{ site.facebook_url }}" target="_blank">
-    <img width="32" src="{{ site.baseurl }}/images/icons/facebook.png" title="Facebook">
-  </a>
-  <a href="{{ site.twitter_url }}" target="_blank">
-    <img width="32" src="{{ site.baseurl }}/images/icons/twitter.png" title="Twitter">
-  </a>
-  <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-    <img width="32" src="{{ site.baseurl }}/images/icons/rss.png" title="RSS">
-  </a>
+  <ul>
+    <li>
+      <a href="{{ site.facebook_url }}" target="_blank" class="icon-link">
+        <img width="14" src="http://www.facebook.com/favicon.ico">
+        Facebook
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.twitter_url }}" target="_blank" class="icon-link">
+        <img width="14" src="http://twitter.com/favicon.ico">
+        Twitter
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.itunes_url }}" target="_blank" class="icon-link">
+        <img width="14" src="http://itunes.apple.com/favicon.ico">
+        iTunes
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.soundcloud_url }}" target="_blank" class="icon-link">
+        <img width="14" src="http://soundcloud.com/favicon.ico">
+        SoundCloud
+      </a>
+    </li>
+    <li>
+      <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon-link">
+        <img width="14" src="{{ site.baseurl }}/images/rss.png">
+        RSS
+      </a>
+    </li>
+  </ul>
 
   <h2>NaNoWriMo Winner</h2>
   <p style="text-align: center;">
