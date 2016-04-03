@@ -1,16 +1,24 @@
-# Site settings
-title: Antonia Chain
-email: antoniachainuk@gmail.com
-description: Crime Writer
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.antoniachain.com" # the base hostname & protocol for your site
-twitter_username: AntoniaChain
+
+title: 'Antonia Chain'
+tagline: 'Crime Writer'
+description: 'Crime Writer'
 facebook_url: https://www.facebook.com/antoniachain
 twitter_url: http://twitter.com/antoniachain
+twitter_username: antoniachain
 itunes_url: https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231
 soundcloud_url: https://soundcloud.com/shadowofthewing
-excerpt_separator: "\n---\n"
-permalink: /:year/:title.html
+email: antoniachainuk@gmail.com
+google_analytics_id: UA-75846413-1
 
-# Build settings
+url: http://www.antoniachain.com
+baseurl: /
+permalink: /:year/:title.html
+paginate: 5
 markdown: kramdown
+gems: [jekyll-paginate]
+
+# Markdown enabled, can use multiple paragraphs (enabled by `|`)
+bio: |
+  Born in a North Eastern fishing port in England just as the Beatles started hitting the charts and grew up with a passion for mystery and suspense. When I ran out of the kind of stories I like to read, I began writing them.
+
+  You can find me on [Facebook](https://www.facebook.com/antoniachain), [Twitter](http://twitter.com/antoniachain), and the [Shadow of the Wing podcast](https://soundcloud.com/shadowofthewing).

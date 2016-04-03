@@ -1,65 +1,39 @@
-<div id="l_sidebar">
-  <h2>Recent Posts</h2>
-  <ul>
-    {% for post in site.posts limit:10 %}
-      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="/public/images/avatar.png" alt="" width="150" style="display: inline-block;" />
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
 
-  <h2>Twitter</h2>
-  <a class="twitter-timeline" data-widget-id="417782517077250048" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" width="225" height="400" lang="EN">My Tweets</a>
-</div>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-<div id="r_sidebar">
-  <h2>About Antonia</h2>
-  <p>
-    <img src="{{ site.baseurl }}/images/avatar.png" width="64" style="float:right;">
-    Born in a North Eastern fishing port in England just as the Beatles started hitting the charts and grew up with a passion for mystery and suspense. When I ran out of the kind of stories I like to read, I began writing them.
-  </p>
-  <p>
-    <strong>
-      <a href="mailto:{{ site.email }}">Contact Antonia &raquo;</a>
-    </strong>
-  </p>
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-  <h2>Follow Antonia</h2>
-  <ul>
-    <li>
-      <a href="{{ site.facebook_url }}" target="_blank" class="icon-link">
-        <img width="14" src="http://www.facebook.com/favicon.ico">
-        Facebook
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.twitter_url }}" target="_blank" class="icon-link">
-        <img width="14" src="http://twitter.com/favicon.ico">
-        Twitter
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.itunes_url }}" target="_blank" class="icon-link">
-        <img width="14" src="http://itunes.apple.com/favicon.ico">
-        iTunes
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.soundcloud_url }}" target="_blank" class="icon-link">
-        <img width="14" src="http://soundcloud.com/favicon.ico">
-        SoundCloud
-      </a>
-    </li>
-    <li>
-      <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon-link">
-        <img width="14" src="{{ site.baseurl }}/images/rss.png">
-        RSS
-      </a>
-    </li>
-  </ul>
+      {% comment %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% endcomment %}
 
-  <h2>NaNoWriMo Winner</h2>
-  <p style="text-align: center;">
-    <a href="http://nanowrimo.org/" target="_blank">
-      <img src="{{ site.baseurl }}/images/nanowrimo.jpg" width="200" style="float: none;">
-    </a>
-  </p>
+      <a class="sidebar-nav-item" href="{{ site.facebook_url }}">Facebook</a>
+      <a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.soundcloud_url }}">Podcast</a>
+    </nav>
+
+    <small>&copy; {{ site.time | date: '%Y' }} All rights reserved</small>
+  </div>
 </div>
