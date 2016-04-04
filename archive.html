@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archive
+---
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul><hr/>{% endunless %}
+    <h3 id="y{{post.date | date: "%Y"}}" class="page-title">{{ currentdate }}</h3>
+    <ul class="related-posts">
+    {% assign date = currentdate %}
+  {% endif %}
+  <li>
+    <h4>
+      <a href="{{ post.url }}"><span>{{ post.title }}</span></a>
+      <small>{{ post.date | date: "%m/%d" }}</small>
+    </h4>
+  </li>
+  {% if forloop.last %}</ul><hr/>{% endif %}
+{% endfor %}
