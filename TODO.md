@@ -1,4 +1,1 @@
 
-
-
-- Portrait image (Paper app)

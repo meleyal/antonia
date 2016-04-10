@@ -9,8 +9,6 @@ itunes_url: https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231
 soundcloud_url: https://soundcloud.com/shadowofthewing
 email: antoniachainuk@gmail.com
 google_analytics_id: UA-75846413-1
-
-
 url: http://www.antoniachain.com
 baseurl: '/'
 permalink: /:year/:title.html
@@ -18,8 +16,9 @@ paginate: 5
 markdown: kramdown
 gems: [jekyll-paginate]
 
-# Markdown enabled, can use multiple paragraphs (enabled by `|`)
-bio: |
-  Born in a North Eastern fishing port in England just as the Beatles started hitting the charts and grew up with a passion for mystery and suspense. When I ran out of the kind of stories I like to read, I began writing them.
-
-  You can find me on [Facebook](https://www.facebook.com/antoniachain), [Twitter](http://twitter.com/antoniachain), and the [Shadow of the Wing podcast](https://soundcloud.com/shadowofthewing).
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: post
