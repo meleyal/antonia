@@ -4,8 +4,6 @@ title: And so it begins....
 date: 2012-07-19 10:08:10.000000000 +02:00
 categories:
 - Musings on crime, writing and life
-meta:
-  dsq_thread_id: '771705379'
 ---
 
 I have had to put a hold on posting recently as 'post house move' life caught up and demanded time and energy being spent elsewhere.  However, various friends and colleagues have expressed interest and indeed impatience in seeing my new site so somewhat earlier than expected I am launching it today.

@@ -4,8 +4,6 @@ title: Using creative freedoms responsibly
 date: 2012-05-28 09:00:20.000000000 +02:00
 categories:
 - Musings on crime, writing and life
-meta:
-  dsq_thread_id: '706233729'
 ---
 
 A recent report into the deaths of mental health patients (Yvonne Roberts, The Guardian, 26/5/12) suggests that in 2010 there were 3,626 deaths in mental health detention in the UK, of which 501 were self-inflicted and that the proportion of deaths recorded from "natural causes" is exceptionally high. Roberts report draws attention to the fact that investigations into such deaths are investigated "in house" by the Health Services involved and unlike deaths in custody investigations do not have to be independent or findings made public.  Doubts are raised in terms of the quality of such investigations and, whether accountability is properly explored.

@@ -4,8 +4,6 @@ title: When did vampires and other bad guys become so tame?
 date: 2012-05-11 09:44:04.000000000 +02:00
 categories:
 - Musings on crime, writing and life
-meta:
-  dsq_thread_id: '838403967'
 ---
 
 In 2010 I did the National Novel Writing in a Month challenge (NaNoWriMo) and recall going to a NaNo writers meeting.  One writer said he had intended to write about vampires but a) they were all over the place now and b) they were all so damn nice.  He pointed out, voice cracking with emotion, vampires were supposed to be unpleasant and frightening rather than local teen hero all the girls swoon to be near.  "_Vampires_" said the Nanoite, "_just aren"t what they are supposed to be_".

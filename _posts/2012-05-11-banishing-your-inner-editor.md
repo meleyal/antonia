@@ -4,8 +4,6 @@ title: Banishing your inner editor
 date: 2012-05-11 10:09:47.000000000 +02:00
 categories:
 - Help for Writers
-meta:
-  dsq_thread_id: '838403614'
 ---
 
 Some time ago I was reading a Tess Gerritson novel and fawned, just a little bit, over how well she had written a particularly effective and utterly gruesome scene. Unexpectedly my Dad popped into my thoughts and I could almost hear his disappointment should I ever write such a script.  My lovely (proud and very supportive) Dad is the manifestation of my internal editor. He would prefer me to write about nice things, in a nice way, befitting a nice person.

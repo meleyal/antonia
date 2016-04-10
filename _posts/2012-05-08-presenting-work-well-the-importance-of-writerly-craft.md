@@ -4,8 +4,6 @@ title: Presenting work well - the importance of writerly craft
 date: 2012-05-08 12:42:10.000000000 +02:00
 categories:
 - Help for Writers
-meta:  
-  dsq_thread_id: '771918046'
 ---
 Recently I wrote a  flash fiction piece for a women's magazine.  It was only a 700 word piece so not difficult to edit right?  Wrong.  A critical friend read it for me before it was posted and it was a good  thing she did, there were two clumsy typos and one very poor use of grammar.  If I were a magazine editor I doubt I would have give the story more than a cursory glance. After all, if the author cannot be bothered to take the time to make sure it is a quality piece of writing, why should the editor give any of their precious time to it? First impressions count.
 
