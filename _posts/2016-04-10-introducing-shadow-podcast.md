@@ -1,14 +1,12 @@
 ---
-title: Introducing the 'Shadow of the Wing' podcast
+title: "Episode 1: Introducing the 'Shadow of the Wing' podcast"
 categories:
 - Podcast
 ---
 
 Welcome to my new podcast which is a serialisation of my novel _Shadow of the
 Wing_. The novel is very loosely based upon English High Security Psychiatric
-Hospitals, Rampton, Ashworth and the infamous Broadmoor.
-
-The story will be told in episodes available via this website and through iTunes.  
+Hospitals, Rampton, Ashworth and the infamous Broadmoor. The story will be told in episodes available via this website and through iTunes.  
 
 Episode one introduces the protagonist, Jess Isaacs, mental health social worker who unusually, also works with the police as a specialist advisor in relation to serial sex offenders.  Jess takes up a new job in the Psychological Treatment Unit of the hospital. A number of shocking deaths occur which the management are keen to explain away whilst Jess believes there is more to the deaths than meets the eye.  Her questions bring her into dangerous conflict with both patients and staff.
 
@@ -32,6 +30,6 @@ The story, follows the perspective of the lead character, Jess Isaacs, social wo
 
 ## Listen to the first episode below
 
-The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do share if you enjoy the series!
+The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do [share](#share) if you enjoy the series!
 
 <iframe width="300" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256651796&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

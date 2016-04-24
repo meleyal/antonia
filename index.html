@@ -12,8 +12,12 @@ title: Home
       </a>
     </h1>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    <div class="post-excerpt">{{ post.excerpt }}</div>
-    <a class="more" href="{{ post.url }}">more&hellip;</a>
+    <div class="post-excerpt">
+      {{ post.excerpt }}
+      {% if post.excerpt != post.content %}
+        <a class="more" href="{{ post.url }}">Read more&hellip;</a>
+      {% endif %}
+    </div>
   </div>
   {% endfor %}
 </div>

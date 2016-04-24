@@ -13,6 +13,6 @@ Focus on individual words is a part of the joy for a writer and I guess that is 
 
 Sometimes words have alluded me for ages and I have picked one that would do for now. Invariably the right one has come to me later - in bed, in the shower, having a pee and then I have rushed back to exchange it. At other times I have wondered if Alzheimers  was creeping in.  Not only could I not find the word I couldn't even find one close to it. There was a particular word eluding me today which kept coming into my head as 'recindual' - no such word of course.  Still got some highlighted asterisks in that part of a text ready for when the damn word comes out of hiding (I don't mean rescind, recede, or residual - what the hell is the word I am grappling for?).
 
-As a writer I soend much time really thinking closely and carefully about words and the capacity and power of them.  Sorting them, curling them round and stretching them out. Its a delight.
+As a writer I spend much time really thinking closely and carefully about words and the capacity and power of them.  Sorting them, curling them round and stretching them out. Its a delight.
 
 How do you find just the right words?
