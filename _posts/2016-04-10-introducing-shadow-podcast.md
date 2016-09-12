@@ -28,8 +28,4 @@ Prisoners get out of jail on the last day of their sentence, even when there is 
 
 The story, follows the perspective of the lead character, Jess Isaacs, social worker by profession and police profiler by experience and her interactions with both patients and staff.  It tells the story of multiple complex, corrupted and damaged relationships which collide with explosive and deadly results.
 
-## Listen to the first episode below
-
-The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do [share](#share) if you enjoy the series!
-
-<iframe width="300" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256651796&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% include podcast.html episode_id=1 soundcloud_id=256651796 %}

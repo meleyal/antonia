@@ -24,11 +24,7 @@ I went back to the _English Oxford Dictionary_.  It suggests that 'infamous' ref
 
 The reader has a point:  I used the word 'infamous' to capture an essence of all of these factors. It is a useful, evocative word which offers a shorthand to the reader.  On the other hand, it is true that this is a hospital, full of people with ill health and significant life challenges.  It is the workplace for hundreds of committed and high quality staff who do nothing but their best to enable patients to become and feel well.  It is true that no work of fiction should ever trivialize the distress of people with mental health challenges or diminish the contribution of the vast majority of professional staff who work to support them in a time of need.  I appreciate that this reader prompted my opportunity to reflect.
 
-## Listen to the second episode below
-
-The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do [share](#share) if you enjoy the series!
-
-<iframe width="300" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260624244&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% include podcast.html episode_id=2 soundcloud_id=260624244 %}
 
 [^1]: _The Mermaids Singing_, by Val McDermid, is published by Harper Collins
 [^2]: _The Coroner_, by MR Hall is published by Macmillan

@@ -257,6 +257,9 @@ aside.share a span {
   background: #dd4b39;
 }
 
+.footnotes {
+  font-size: .8em;
+}
 .footnotes ol p {
   margin-bottom: .5rem;
 }

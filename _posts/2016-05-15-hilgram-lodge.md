@@ -14,8 +14,4 @@ Unsurprisingly, all the hospitals are in semi-rural environments.  Housing has s
 
 Anyone close to the hospitals will be familiar with the weekly alarm test.  The old air raid type siren is sounded warn locals of escapes.  It is tested at the same time each week.  It can be heard for many miles around.  Fortunately, it is very rare indeed for the alarm to be sounded to notify of an actual escape.  On a misty day, the siren is alarming indeed and one wonders whether the test is reassuring, or still a reminder of the potential danger close by. Are windows locked at night?
 
-## Listen to the third episode below
-
-The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do [share](#share) if you enjoy the series!
-
-<iframe width="300" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/264284662&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% include podcast.html episode_id=3 soundcloud_id=264284662 %}
