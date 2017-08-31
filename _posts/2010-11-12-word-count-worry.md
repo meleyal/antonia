@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Word count worry
-date: '2010-11-12T18:40:00.000Z'
+date: 2010-11-12 18:40:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 I took a days leave from work which gave me an alleged 'extra' 7 hours to write. In fact, what with all the incredibly important other things I had to do such as facebook, stroking the cat, watching the weather forecast and visiting the fridge I only managed five hours writing.  I am past the thirty thousand mark (without thinking I actually wrote 'thousand' there rather than 30k, such is the influence of the 'word count is everything' NaNo mantra!).  My eyes are dry and my wrists hurt.

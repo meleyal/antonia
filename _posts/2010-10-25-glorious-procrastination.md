@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Glorious procrastination
-date: 2010-10-25
+date: 2010-10-25 00:00:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Yesterday I had several novel related tasks

@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Count down
-date: 2010-10-31
+date: 2010-10-31 00:00:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Tomorrow is writing day one and a scary day. I think I have the prologue and at least part of chapter one in my head already but will this translate to 2-3 thousand words or will I end up writing a few sentences and then get stuck?  I guess I will know tomorrow.

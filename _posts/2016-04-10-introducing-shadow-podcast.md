@@ -1,5 +1,6 @@
 ---
-title: "Episode 1: Introducing the 'Shadow of the Wing' podcast"
+title: 'Episode 1: Introducing the ''Shadow of the Wing'' podcast'
+date: 2016-04-10 00:00:00 Z
 categories:
 - Podcast
 ---

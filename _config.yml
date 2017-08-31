@@ -1,7 +1,20 @@
-
-title: 'Antonia Chain'
-tagline: 'Crime Writer'
-description: 'Crime Writer'
+---
+title: Antonia Chain
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: post
+tagline: Crime Writer
+description: Crime Writer
 facebook_url: https://www.facebook.com/antoniachain
 twitter_url: http://twitter.com/antoniachain
 twitter_username: antoniachain
@@ -10,15 +23,9 @@ soundcloud_url: https://soundcloud.com/shadowofthewing
 email: antoniachainuk@gmail.com
 google_analytics_id: UA-75846413-1
 url: http://www.antoniachain.com
-baseurl: '/'
-permalink: /:year/:title.html
+baseurl: "/"
+permalink: "/:year/:title.html"
 paginate: 5
 markdown: kramdown
-gems: [jekyll-paginate]
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: post
+gems:
+- jekyll-paginate

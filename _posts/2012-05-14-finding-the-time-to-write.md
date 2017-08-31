@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Finding the time to write
-date: 2012-05-14 14:56:59.000000000 +02:00
+date: 2012-05-14 12:56:59 Z
 categories:
 - Musings on crime, writing and life
+layout: post
 ---
 
 Some years ago before I discovered the joy of story telling, I teased a friend about her habit of getting up every day at 5:30 to write and asked how on earth she could resist the lure of the warm bed on a dark winter morning.  She said "when people ask me why, I say I don"t understand the question: not writing to me would feel like not breathing".

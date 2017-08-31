@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Flash fiction 2 - in the style of those summer reading women's mags
-date: 2012-09-11 20:11:28.000000000 +02:00
+date: 2012-09-11 18:11:28 Z
 categories:
 - Free Fiction
+layout: post
 ---
 
 Because I have been a bit out of the loop of writing regularly I decided to do a few writing exercises.  For this one I chose to do a flash fiction in the style of those mags that come out every summer - light beach reading for many.  Anyway, here it is, enjoy.

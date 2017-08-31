@@ -1,9 +1,9 @@
 ---
-layout: post
 title: The lure of the edit and back up yonder
-date: '2010-11-14T20:15:00.000Z'
+date: 2010-11-14 20:15:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Don't do it!  Absolutely don't do it. NaNoites have clocked up well over million words so far this November so it is reasonable to assume that the advice on the NaNoWriMo site is sage.  There is no rational reason therefore why I should have decided to ignore it and therein lay folly. I edited a section. I knew when I was writing it that I had rushed. I wanted to get onto the next bit of the story so I positively romped through an important section and not surprisingly the pace was wrong and the whole thing was flat and one dimensional so I decided to add more. I knew what and where so it was simply a case of going back - wasn't it?  It took me two and a half hours to add less than a thousand words.  Adding a few hundred meant deleting others.  Some added bits didn't accord with passages later in the text so they needed to be amended. It was a nightmare and although I am in front of where I had generally planned to be in the month, I am behind for this weekend and I am cross with myself for not just taking some notes and going back later - when the NaNo month is up.  Lesson learned!

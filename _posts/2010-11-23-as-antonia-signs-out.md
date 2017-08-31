@@ -1,9 +1,9 @@
 ---
-layout: post
 title: As Antonia signs out...
-date: '2010-11-23T11:03:00.000Z'
+date: 2010-11-23 11:03:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 In the words of Schwarzenegger "I"ll be back" but who exactly will be back and where?

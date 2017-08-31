@@ -1,9 +1,9 @@
 ---
-layout: post
 title: OK, so a couple of excerpts from the novel... enjoy.
-date: 2010-11-03
+date: 2010-11-03 00:00:00 Z
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 My word count is now at 10k, 3k of which was written today. I am pleased to be ahead of my target but as sitting doing nothing but thinking is all I have been capable of for a few days, I guess you could say I have had it easy and that's not many words at all. Back to work tomorrow and I am still suffering from chronic fatigue so inevitably the word count will slow.  

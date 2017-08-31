@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Keeping your ear out
-date: 2012-05-19 06:56:35.000000000 +02:00
+date: 2012-05-19 04:56:35 Z
 categories:
 - Help for Writers
 - Musings on crime, writing and life
+layout: post
 ---
 
 Where I come from there is an expression "_keeping your ear out_" – it is the aural equivalent of keeping ones eyes open.
