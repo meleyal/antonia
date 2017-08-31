@@ -23,7 +23,7 @@ soundcloud_url: https://soundcloud.com/shadowofthewing
 email: antoniachainuk@gmail.com
 google_analytics_id: UA-75846413-1
 url: http://www.antoniachain.com
-baseurl: "/"
+baseurl: ""
 permalink: "/:year/:title.html"
 paginate: 5
 markdown: kramdown
