@@ -171,6 +171,22 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.post-preview {
+  margin-bottom: 0;
+}
+
+.post-preview::after {
+  content: '...';
+  display: block;
+  color: rgba(0, 0, 0, 0.2);
+  position: relative;
+  text-align: center;
+  font-size: 2rem;
+  margin: 2rem 0;
+  line-height: 0;
+  height: 15px;
+}
+
 /* 'Read more...' link on same line */
 .post-excerpt,
 .post-excerpt p {
