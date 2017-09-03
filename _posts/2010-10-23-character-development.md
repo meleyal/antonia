@@ -1,9 +1,8 @@
 ---
 title: Character development
-date: 2010-10-23 00:00:00 Z
+date: 2010-10-23 01:00:00 +01:00
 categories:
 - NaNoWriMo
-layout: post
 ---
 
 I know two of my my characters like I know myself - I have known them for years as the idea for my one-day-to-be-written novel has grown up in a cranny somewhere behind my front temporal lobe.  I can see both in my minds eye: Both have characteristics I like such as the slim hips of one (predictably shallow of me) or the fierce tenacity in the face of extreme challenge of my lead female.  I know what they wear, what they eat, their loves and their histories.  So far so good.

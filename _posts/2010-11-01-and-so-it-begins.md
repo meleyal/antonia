@@ -1,9 +1,8 @@
 ---
 title: And so it begins
-date: 2010-11-01 00:00:00 Z
+date: 2010-11-01 00:00:00 +00:00
 categories:
 - NaNoWriMo
-layout: post
 ---
 
 What a peculiar day.  It didn't start well.  6:30am I was at my desk for my first two hours writing of the day. I have planned to do at least two hours a day.  I knew this morning that the MS which has been threatening to kick in, had, and a trip to the doctors was fairly urgently needed.  Hopefully pain relieving neuro meds will do what they do, within a short space of time - I have turned down the dozy making ones.  Being mobility restricted for a few days will at least help with word count, I can type in bed!

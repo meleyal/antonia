@@ -1,9 +1,8 @@
 ---
 title: Let's have a party!
-date: 2010-11-19 18:07:00 Z
+date: 2010-11-19 18:07:00 +00:00
 categories:
 - NaNoWriMo
-layout: post
 ---
 
 Today I started setting up the final scene of the novel.  I have the last, say 5k words very clear in my head and they feature fireworks and a party - both deliciously excellent for a bit of chaos.   Not sure how I word-stroll towards that but unexpectedly today introduced a different perspective - a documentary film crew!  Blimey, where did they come from?  I introduced a level of complication I could do without but hey, what the heck, its a party! Come on in.

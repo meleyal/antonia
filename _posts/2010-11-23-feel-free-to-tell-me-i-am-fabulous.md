@@ -1,9 +1,8 @@
 ---
 title: Feel free to tell me I am fabulous!
-date: 2010-11-23 00:19:00.002000000 Z
+date: 2010-11-23 00:19:00.002000000 +00:00
 categories:
 - NaNoWriMo
-layout: post
 ---
 
 I did it.  Tonight I crossed the 50 thousand word challenge finish line.  Yup siree, thats 50 thousand words, completely and genuinely starting from scratch on the 1st November and way before the final date of the challenge which is 30th November.  (It was actually 51k to 'the end' - I feel as if there should be a 'ta daaa' there).
