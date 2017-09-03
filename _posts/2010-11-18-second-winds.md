@@ -3,6 +3,7 @@ title: Second winds
 date: 2010-11-18 18:44:00.001000000 +00:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Its been a bit of a rough few days. I struggled with word count and everything seemed all over the place.  Today though it was as if my brain decided it all did actually make sense and I flew through the writing hours I had (6-9am and 5:30- 6:30 pm) and literally thousands of words came tumbling out. If I hadn't have needed to do my paid work in the hours in between I think I might still be going. As it is, twelve hours looking at a screen and typing on the keys is really enough for anyone and I am going to call it a day. I have notes to kick start tomorrow.  Now I absolutely know something I didn't (with absolute conviction) know yesterday: I will finish and I will have (more than ) enough words. I think the lesson has been, to steal a phrase from Nike, JUST DO IT.  Just write. Write and write and write.  I know its simple enough and we have all heard it but y'know, it works.  Who knew?

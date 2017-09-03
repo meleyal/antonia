@@ -19,7 +19,6 @@ defaults:
     path: ''
   values:
     layout: post
-    comments: true
 tagline: Crime Writer
 description: Crime Writer
 facebook_url: https://www.facebook.com/antoniachain

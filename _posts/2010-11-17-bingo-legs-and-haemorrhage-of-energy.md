@@ -3,6 +3,7 @@ title: Bingo legs and haemorrhage of energy
 date: 2010-11-17 22:40:00 +00:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Its been a tough couple of days and I have only achieved about three or four thousand words.  This is fatigue related rather than knowing what to write. What to write is waiting quietly but a bit impatiently in my head ready to leave via my fingers and keyboard. The trouble is, so are a lot of work related words and keyboard visits. Children, get into line! Tsk.

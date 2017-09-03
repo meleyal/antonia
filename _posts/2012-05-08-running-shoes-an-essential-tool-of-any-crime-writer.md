@@ -3,6 +3,7 @@ title: Running shoes - an essential tool of any crime writer?
 date: 2012-05-08 12:58:55 +01:00
 categories:
 - Musings on crime, writing and life
+layout: post
 ---
 
 Have you noticed how many good guys run in crime novels?  The good guys run down endless swathes of virgin white sand, Atlantic waves crashing  upon shores, perhaps the odd surfer riding a roller or crashing in the breakers.  Alternatively they run along a craggy, windswept unforgiving landscape which might also be a dune bordered beach in a bleak northern part of England, or may be a fell, mountain range, forest just about anywhere on the globe.  Whichever, the good guys - male and female - run.  I have come to regard the run as a bit of a crime good-guy cliche now - a bit like the compulsory dog in a disaster movie. I look out for it but am also a bit disappointed by it.  So, as a writer thinking about character and story development I thought about the purpose of 'the run' in crime fiction.

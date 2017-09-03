@@ -3,6 +3,7 @@ title: Making it up as I am going along.. erm
 date: 2010-11-15 21:16:00 +00:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 An old friend of mine from way back when (Nicola Griffith - look her up, she has a web page and a blog) is now a very successful multi award winning author. Today she wrote on her blog page that she had 746 pages and 158 thousand words of her next book done.  Blimey. In fact, I am so astounded at those figures I need to say that again, blimey!!!

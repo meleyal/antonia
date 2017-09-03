@@ -4,6 +4,7 @@ date: 2012-05-19 05:56:35 +01:00
 categories:
 - Help for Writers
 - Musings on crime, writing and life
+layout: post
 ---
 
 Where I come from there is an expression "_keeping your ear out_" – it is the aural equivalent of keeping ones eyes open.

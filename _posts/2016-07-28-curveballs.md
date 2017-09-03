@@ -1,6 +1,8 @@
 ---
 title: Curveballs
 date: 2016-07-28 01:00:00 +01:00
+categories:
+- Podcast
 ---
 
 Life sometimes throws curveballs. Unfortunately a number of events coincided which has impacted upon my ability to post more Shadow of the Wing podcasts.
@@ -15,3 +17,11 @@ So, unfortunately there will be a delay in posting new content. To make up for t
 Doing a podcast has been a learning experience for me. With hindsight I should have recorded them all before they were released in a scheduled way but having not done one before, I didn't know this. I do now.
 
 I appreciate your continuing support, understanding and patience.
+
+Best wishes<br>
+_Antonia_
+<br><br>
+
+## Listen to the Shadow of the Wing
+
+The podcast is something of an experiment with new ways to share my fiction work.  I hope you enjoy it and will [subscribe for future episodes](https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231). I very much welcome your feedback (via [Facebook](https://facebook.com/antoniachain), [Twitter](https://twitter.com/antoniachain) or [Email](mailto:antoniachainuk@gmail.com)). Please do [share](#share) if you enjoy the series!

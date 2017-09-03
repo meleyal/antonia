@@ -3,6 +3,7 @@ title: Flash fiction
 date: 2012-09-10 11:11:03 +01:00
 categories:
 - Free Fiction
+layout: post
 ---
 
 _I have been so caught up with life, and house moves and holidays that writing and the blog seemed to take a lessor place in my life.  Clearly this has to stop!  Today I wanted to kick start writing again and so wrote this piece of flash fiction.  Its hot off the press and a bit rough and ready so any feedback gratefully received.  Enjoy._

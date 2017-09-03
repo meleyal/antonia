@@ -3,6 +3,7 @@ title: Nice vampires and writing for Dad
 date: 2010-10-29 01:00:00 +01:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 I went to the first (2010) meeting of the Brighton and Hove NaNoWriMo group last night. One writer said he had intended to write about vampires but a) they were all over the place right now and b) current film and tv vampires were so damn _nice.  _He pointed out, his voice cracking with emotion, vampires were _supposed_ to be unpleasant and frightening rather than local teen hero that all the girls want to swoon for.  "Vampires" said the nanoite, "just aren't what they are supposed to be" and he didn't want any part of that.  I don't think I have ever been to a gathering where I have considered the appropriate and otherwise, personality traits of vampires and for that reason alone, I am sure I will be at future meetings through the month of November.

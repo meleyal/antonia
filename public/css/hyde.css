@@ -13,6 +13,7 @@
  * https://github.com/poole/hyde.
  */
 
+
 /*
  * Contents
  *
@@ -23,6 +24,7 @@
  * Themes
  */
 
+
 /*
  * Global resets
  *
@@ -30,7 +32,7 @@
  */
 
 html {
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -42,6 +44,7 @@ html {
     font-size: 20px;
   }
 }
+
 
 /*
  * Sidebar
@@ -81,7 +84,7 @@ html {
 }
 
 .sidebar small {
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #c7c7c7;
 }
 
@@ -115,11 +118,12 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right: 1rem;
-    top: 1rem;
-    left: 1rem;
+    right:  1rem;
+    top:    1rem;
+    left:   1rem;
   }
 }
+
 
 /* Container
  *
@@ -128,7 +132,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top: 4rem;
+  padding-top:    4rem;
   padding-bottom: 4rem;
 }
 
@@ -146,6 +150,7 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+
 
 /*
  * Reverse layout
@@ -184,7 +189,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post iframe {
-  margin: 0.5rem 0 1rem 0;
+  margin: .5rem 0 1rem 0;
 }
 
 .aside-title {
@@ -214,11 +219,10 @@ aside.share li {
 
 aside.share li {
   display: inline-block;
-  margin-right: 5px;
 }
 
 aside.share a {
-  transition: opacity 0.2s;
+  transition: opacity .2s;
   display: block;
   padding: 8px 20px;
   text-decoration: none !important;
@@ -226,7 +230,7 @@ aside.share a {
   font-weight: 700;
   color: #fff;
   opacity: 0.8;
-  font-size: 0.7rem;
+  font-size: .7rem;
 }
 
 aside.share a:hover {
@@ -239,7 +243,7 @@ aside.share a span {
 
 @media (min-width: 38rem) {
   aside.share a span {
-    display: inline;
+    display: inline;;
   }
 }
 
@@ -254,8 +258,8 @@ aside.share a span {
 }
 
 .footnotes {
-  font-size: 0.8em;
+  font-size: .8em;
 }
 .footnotes ol p {
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
 }

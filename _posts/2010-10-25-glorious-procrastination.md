@@ -3,6 +3,7 @@ title: Glorious procrastination
 date: 2010-10-25 01:00:00 +01:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Yesterday I had several novel related tasks

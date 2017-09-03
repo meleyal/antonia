@@ -3,6 +3,7 @@ title: Playing with a ball of wool
 date: 2010-11-02 00:00:00 +00:00
 categories:
 - NaNoWriMo
+layout: post
 ---
 
 Years ago I knew a comedy writer who described his periods of procrastination as 'playing with a ball of wool'.  I was a champion at it this morning. I was ready to type as soon as I woke up but I didn't feel so good and was feeling sorry for myself, I had a couple of on-line scrabble games to take moves on, I wanted to catch up on Facebook and some reading, and I had to order some sick-bed PJ's from Next on line (an essential task obviously) and I didn't write a word till much, much later in the day - and then, I didn't want to.  When I started writing though, the pain (MS pain) was ignorable and I managed way in excess of my planned word count for today. Whilst this is great I know that I wont be able to maintain this pace for the whole month - work will be a competing demand and the lure of lazy will call often I am sure.
