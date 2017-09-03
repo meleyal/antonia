@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <img src="/public/images/avatar.png" alt="" width="150" style="display: inline-block;" />
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="/">
           {{ site.title }}
         </a>
       </h1>
@@ -11,10 +11,11 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item" href="/">Blog</a>
+      <a class="sidebar-nav-item" href="/work-in-progress">Work in Progress</a>
+      <a class="sidebar-nav-item" href="/podcast">Podcast</a>
       <a class="sidebar-nav-item" href="{{ site.facebook_url }}">Facebook</a>
       <a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a>
-      <a class="sidebar-nav-item" href="{{ site.soundcloud_url }}">Podcast</a>
     </nav>
 
     <small>&copy; {{ site.time | date: '%Y' }} All rights reserved</small>

@@ -1,0 +1,9 @@
+---
+title: Podcast
+permalink: /podcast/index.html
+layout: default
+---
+
+{% for post in site.podcast %}
+  {% include preview.html post=post %}
+{% endfor %}
