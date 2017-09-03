@@ -15,8 +15,11 @@
       <a class="sidebar-nav-item" href="/work-in-progress">Work in Progress</a>
       <a class="sidebar-nav-item" href="/podcast">Podcast</a>
       <a class="sidebar-nav-item" href="/publications">Publications</a>
-      <a class="sidebar-nav-item" href="{{ site.facebook_url }}">Facebook</a>
-      <a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a>
+      <span class="sidebar-nav-item">
+        <a href="{{ site.facebook_url }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>&nbsp;&nbsp;
+        <a href="{{ site.twitter_url }}" title="Twitter"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
+        <a href="{{ site.medium_url }}" title="Medium"><i class="fa fa-medium"></i></a>
+      </span>
     </nav>
 
     <small>&copy; {{ site.time | date: '%Y' }} All rights reserved</small>
