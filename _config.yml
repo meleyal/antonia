@@ -2,17 +2,17 @@
 title: Antonia Chain
 timezone: Europe/London
 collections:
-  posts:
-    title: Posts
-    output: true
-  work-in-progress:
-    title: Work in Progress
-    output: true
   podcast:
     title: Podcast
     output: true
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
+    output: true
+  work-in-progress:
+    title: Work in Progress
     output: true
 defaults:
 - scope:

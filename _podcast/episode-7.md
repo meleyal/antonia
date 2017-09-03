@@ -1,6 +1,6 @@
 ---
 title: 'Episode 7: How persuadable are you?'
-date: 2016-10-21 00:00:00 Z
+date: 2016-10-21 01:00:00 +01:00
 categories:
 - Podcast
 ---

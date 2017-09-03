@@ -1,6 +1,6 @@
 ---
 title: Flash fiction
-date: 2012-09-10 10:11:03 Z
+date: 2012-09-10 11:11:03 +01:00
 categories:
 - Free Fiction
 layout: post
