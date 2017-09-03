@@ -4,6 +4,7 @@ permalink: "/podcast/index.html"
 layout: default
 ---
 
-{% for post in site.podcast %}
+{% assign sorted = site.podcast | sort: 'date' | reverse %}
+{% for post in sorted %}
   {% include preview.html post=post %}
 {% endfor %}

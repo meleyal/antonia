@@ -4,6 +4,7 @@ permalink: "/work-in-progress/index.html"
 layout: default
 ---
 
-{% for post in site.work-in-progress %}
+{% assign sorted = site.work-in-progress | sort: 'date' | reverse %}
+{% for post in sorted %}
   {% include preview.html post=post %}
 {% endfor %}
