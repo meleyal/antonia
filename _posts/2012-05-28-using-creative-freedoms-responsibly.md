@@ -1,6 +1,6 @@
 ---
 title: Using creative freedoms responsibly
-date: 2012-05-28 07:00:20 Z
+date: 2012-05-28 08:00:20 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

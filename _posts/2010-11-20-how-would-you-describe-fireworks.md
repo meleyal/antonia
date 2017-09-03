@@ -1,6 +1,6 @@
 ---
 title: How would you describe fireworks?
-date: 2010-11-20 20:24:00 Z
+date: 2010-11-20 20:24:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

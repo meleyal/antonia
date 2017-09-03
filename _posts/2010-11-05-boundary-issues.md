@@ -1,6 +1,6 @@
 ---
 title: Boundary issues
-date: 2010-11-05 00:00:00 Z
+date: 2010-11-05 00:00:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

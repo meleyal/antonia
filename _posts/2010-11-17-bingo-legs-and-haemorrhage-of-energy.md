@@ -1,6 +1,6 @@
 ---
 title: Bingo legs and haemorrhage of energy
-date: 2010-11-17 22:40:00 Z
+date: 2010-11-17 22:40:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

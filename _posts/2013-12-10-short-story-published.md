@@ -1,6 +1,6 @@
 ---
 title: Short story published
-date: 2013-12-10 11:47:37 Z
+date: 2013-12-10 11:47:37 +00:00
 layout: post
 ---
 

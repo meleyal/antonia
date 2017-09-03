@@ -1,6 +1,6 @@
 ---
 title: As Antonia signs out...
-date: 2010-11-23 11:03:00 Z
+date: 2010-11-23 11:03:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

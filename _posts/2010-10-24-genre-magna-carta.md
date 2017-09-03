@@ -1,6 +1,6 @@
 ---
 title: Genre magna carta
-date: 2010-10-24 00:00:00 Z
+date: 2010-10-24 01:00:00 +01:00
 categories:
 - NaNoWriMo
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Beginnings, endings and whither middles?
-date: 2010-11-13 19:17:00 Z
+date: 2010-11-13 19:17:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

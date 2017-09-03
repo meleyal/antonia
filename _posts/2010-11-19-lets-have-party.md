@@ -1,6 +1,6 @@
 ---
 title: Let's have a party!
-date: 2010-11-19 18:07:00 Z
+date: 2010-11-19 18:07:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

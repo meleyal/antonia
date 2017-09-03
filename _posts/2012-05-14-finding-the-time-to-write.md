@@ -1,6 +1,6 @@
 ---
 title: Finding the time to write
-date: 2012-05-14 12:56:59 Z
+date: 2012-05-14 13:56:59 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Curveballs
-date: 2016-07-28 00:00:00 Z
+date: 2016-07-28 01:00:00 +01:00
 categories:
 - Podcast
 ---

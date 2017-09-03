@@ -1,6 +1,6 @@
 ---
 title: Imaginary friends
-date: 2010-11-09 22:37:00 Z
+date: 2010-11-09 22:37:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: And so it begins....
-date: 2012-07-19 08:08:10 Z
+date: 2012-07-19 09:08:10 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

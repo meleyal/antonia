@@ -1,6 +1,6 @@
 ---
 title: OK, so a couple of excerpts from the novel... enjoy.
-date: 2010-11-03 00:00:00 Z
+date: 2010-11-03 00:00:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

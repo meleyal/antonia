@@ -1,6 +1,6 @@
 ---
 title: Feel free to tell me I am fabulous!
-date: 2010-11-23 00:19:00.002000000 Z
+date: 2010-11-23 00:19:00.002000000 +00:00
 categories:
 - NaNoWriMo
 layout: post

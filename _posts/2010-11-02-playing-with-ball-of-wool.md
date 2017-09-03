@@ -1,6 +1,6 @@
 ---
 title: Playing with a ball of wool
-date: 2010-11-02 00:00:00 Z
+date: 2010-11-02 00:00:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

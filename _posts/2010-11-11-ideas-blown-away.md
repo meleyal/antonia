@@ -1,6 +1,6 @@
 ---
 title: Ideas blown away
-date: 2010-11-11 21:42:00 Z
+date: 2010-11-11 21:42:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

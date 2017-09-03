@@ -1,6 +1,6 @@
 ---
 title: The lure of the edit and back up yonder
-date: 2010-11-14 20:15:00 Z
+date: 2010-11-14 20:15:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

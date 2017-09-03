@@ -1,6 +1,6 @@
 ---
 title: Word count worry
-date: 2010-11-12 18:40:00 Z
+date: 2010-11-12 18:40:00 +00:00
 categories:
 - NaNoWriMo
 layout: post

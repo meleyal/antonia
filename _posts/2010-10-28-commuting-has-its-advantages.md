@@ -1,6 +1,6 @@
 ---
 title: Commuting has its advantages...
-date: 2010-10-28 00:00:00 Z
+date: 2010-10-28 01:00:00 +01:00
 categories:
 - NaNoWriMo
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Back doors, research and new skills
-date: 2010-11-10 13:36:00.001000000 Z
+date: 2010-11-10 13:36:00.001000000 +00:00
 categories:
 - NaNoWriMo
 layout: post

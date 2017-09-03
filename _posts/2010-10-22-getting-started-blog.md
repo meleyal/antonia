@@ -1,6 +1,6 @@
 ---
 title: 'Getting started: the blog'
-date: 2010-10-22 00:00:00 Z
+date: 2010-10-22 01:00:00 +01:00
 categories:
 - NaNoWriMo
 layout: post

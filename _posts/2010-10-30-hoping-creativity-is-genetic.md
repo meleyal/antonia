@@ -1,6 +1,6 @@
 ---
 title: Hoping creativity is genetic
-date: 2010-10-30 00:00:00 Z
+date: 2010-10-30 01:00:00 +01:00
 categories:
 - NaNoWriMo
 layout: post

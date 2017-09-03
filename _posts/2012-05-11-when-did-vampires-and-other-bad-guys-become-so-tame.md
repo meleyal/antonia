@@ -1,6 +1,6 @@
 ---
 title: When did vampires and other bad guys become so tame?
-date: 2012-05-11 07:44:04 Z
+date: 2012-05-11 08:44:04 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

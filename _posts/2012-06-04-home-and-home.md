@@ -1,6 +1,6 @@
 ---
 title: Home and Home
-date: 2012-06-04 10:18:21 Z
+date: 2012-06-04 11:18:21 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

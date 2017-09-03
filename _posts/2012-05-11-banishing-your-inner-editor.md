@@ -1,6 +1,6 @@
 ---
 title: Banishing your inner editor
-date: 2012-05-11 08:09:47 Z
+date: 2012-05-11 09:09:47 +01:00
 categories:
 - Help for Writers
 layout: post

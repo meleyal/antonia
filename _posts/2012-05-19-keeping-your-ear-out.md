@@ -1,6 +1,6 @@
 ---
 title: Keeping your ear out
-date: 2012-05-19 04:56:35 Z
+date: 2012-05-19 05:56:35 +01:00
 categories:
 - Help for Writers
 - Musings on crime, writing and life

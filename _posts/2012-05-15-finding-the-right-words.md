@@ -1,6 +1,6 @@
 ---
 title: Finding the right words
-date: 2012-05-15 18:09:26 Z
+date: 2012-05-15 19:09:26 +01:00
 categories:
 - Help for Writers
 - Musings on crime, writing and life

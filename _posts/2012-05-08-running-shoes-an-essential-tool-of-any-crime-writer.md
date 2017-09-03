@@ -1,6 +1,6 @@
 ---
 title: Running shoes - an essential tool of any crime writer?
-date: 2012-05-08 11:58:55 Z
+date: 2012-05-08 12:58:55 +01:00
 categories:
 - Musings on crime, writing and life
 layout: post

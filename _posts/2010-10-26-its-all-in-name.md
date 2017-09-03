@@ -1,6 +1,6 @@
 ---
 title: It's all in the name
-date: 2010-10-26 00:00:00 Z
+date: 2010-10-26 01:00:00 +01:00
 categories:
 - NaNoWriMo
 layout: post

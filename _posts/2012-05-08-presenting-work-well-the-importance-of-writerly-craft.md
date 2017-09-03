@@ -1,6 +1,6 @@
 ---
 title: Presenting work well - the importance of writerly craft
-date: 2012-05-08 10:42:10 Z
+date: 2012-05-08 11:42:10 +01:00
 categories:
 - Help for Writers
 layout: post
