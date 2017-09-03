@@ -2,11 +2,17 @@
 title: Antonia Chain
 timezone: Europe/London
 collections:
+  podcast:
+    title: Podcast
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
+    output: true
+  work-in-progress:
+    title: Work in Progress
     output: true
 defaults:
 - scope:
@@ -27,5 +33,5 @@ baseurl:
 permalink: "/:year/:title.html"
 paginate: 5
 markdown: kramdown
-gems:
+plugins:
 - jekyll-paginate

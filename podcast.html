@@ -1,0 +1,10 @@
+---
+title: Podcast
+permalink: "/podcast/index.html"
+layout: default
+---
+
+{% assign sorted = site.podcast | sort: 'date' | reverse %}
+{% for post in sorted %}
+  {% include preview.html post=post %}
+{% endfor %}

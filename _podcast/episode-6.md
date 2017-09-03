@@ -1,6 +1,6 @@
 ---
 title: 'Episode 6: Suspicions are aroused'
-date: 2016-09-12 00:00:00 Z
+date: 2016-09-12 01:00:00 +01:00
 categories:
 - Podcast
 ---

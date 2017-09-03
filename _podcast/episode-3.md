@@ -1,6 +1,6 @@
 ---
 title: 'Episode 3: Hilgram Lodge'
-date: 2016-05-15 00:00:00 Z
+date: 2016-05-15 01:00:00 +01:00
 categories:
 - Podcast
 ---

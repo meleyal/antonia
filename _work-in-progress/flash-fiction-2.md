@@ -1,6 +1,6 @@
 ---
 title: Flash fiction 2 - in the style of those summer reading women's mags
-date: 2012-09-11 18:11:28 Z
+date: 2012-09-11 19:11:28 +01:00
 categories:
 - Free Fiction
 layout: post

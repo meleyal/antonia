@@ -1,0 +1,10 @@
+---
+title: Work in Progress
+permalink: "/work-in-progress/index.html"
+layout: default
+---
+
+{% assign sorted = site.work-in-progress | sort: 'date' | reverse %}
+{% for post in sorted %}
+  {% include preview.html post=post %}
+{% endfor %}

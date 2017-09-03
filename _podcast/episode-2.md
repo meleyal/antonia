@@ -1,6 +1,6 @@
 ---
 title: 'Episode 2: Introducing Jess Isaacs – reluctantly renowned social worker'
-date: 2016-04-24 00:00:00 Z
+date: 2016-04-24 01:00:00 +01:00
 categories:
 - Podcast
 ---
