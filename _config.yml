@@ -28,7 +28,7 @@ itunes_url: https://itunes.apple.com/gb/podcast/shadow-of-the-wing/id1099255231
 soundcloud_url: https://soundcloud.com/shadowofthewing
 email: antoniachainuk@gmail.com
 url: http://www.antoniachain.com
-baseurl:
+baseurl: 
 permalink: "/:year/:title.html"
 paginate: 5
 markdown: kramdown
