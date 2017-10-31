@@ -1,6 +1,8 @@
 ---
 title: National Novel Writing Month - or NaNoWriMo as it is known
 date: 2017-10-31 16:33:00 +00:00
+tags:
+- NaNoWriMo
 ---
 
 Todays date 31 October 2017: National Novel Writing Month – NaNoWriMo is almost upon us! Every year for the month of November, writers take on the challenge of writing a novel in a month. To be quite accurate, the actual target number of words in 50,000 in the month – not quite a full novel (although ‘*The Great Gatsby’ *was this length), but enough words to tax most.
