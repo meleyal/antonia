@@ -1,6 +1,10 @@
 ---
 title: What's in a name?
 date: 2017-09-07 11:56:00 +01:00
+tags:
+- pen names
+- writing
+- academic writing
 ---
 
 **What’s in a name?**
