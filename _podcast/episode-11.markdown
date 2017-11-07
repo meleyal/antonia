@@ -1,7 +1,5 @@
 ---
-title: |-
-  Episode 11
-  A bad day at the office...
+title: 'Episode 11: A bad day at the office...'
 date: 2017-11-05 11:55:00 +00:00
 published: false
 ---
