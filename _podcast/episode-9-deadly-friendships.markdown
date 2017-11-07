@@ -1,7 +1,5 @@
 ---
-title: |-
-  Episode 9
-  Deadly Friendships
+title: 'Episode 9: Deadly Friendships'
 date: 2017-11-05 11:53:00 +00:00
 published: false
 ---
