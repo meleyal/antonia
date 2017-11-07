@@ -1,6 +1,6 @@
 ---
 title: 'Episode 8: The Group'
-date: 2017-11-05 11:51:00 +00:00
+date: 2017-11-07 11:51:00 +00:00
 published: false
 ---
 
