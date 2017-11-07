@@ -1,7 +1,5 @@
 ---
-title: |-
-  Episode 13
-  The reputation of the hospital is at stake...
+title: 'Episode 13: The reputation of the hospital is at stake...'
 date: 2017-11-05 11:57:00 +00:00
 published: false
 ---
