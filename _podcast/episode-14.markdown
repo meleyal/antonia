@@ -1,7 +1,5 @@
 ---
-title: |-
-  Episode 14
-  The cutting edge...
+title: 'Episode 14: The cutting edge...'
 date: 2017-11-05 11:58:00 +00:00
 published: false
 ---
