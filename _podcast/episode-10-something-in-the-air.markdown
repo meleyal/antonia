@@ -1,7 +1,5 @@
 ---
-title: |-
-  Episode 10
-  Something in the air
+title: 'Episode 10: Something in the air'
 date: 2017-11-05 11:54:00 +00:00
 published: false
 ---
