@@ -1,5 +1,5 @@
 ---
-title: 'Episode 9: Deadly Friendships'
+title: 'Episode 9: Deadly Friendships (Part 1)'
 date: 2017-11-08 11:53:00 +00:00
 ---
 
