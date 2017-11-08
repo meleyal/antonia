@@ -1,7 +1,6 @@
 ---
 title: 'Episode 18: Life goes on...'
-date: 2017-11-05 12:02:00 +00:00
-published: false
+date: 2017-11-08 12:02:00 +00:00
 ---
 
 The concluding episode of Shadow draws upon a real-life experience of the author.
@@ -15,3 +14,5 @@ Thanks are due to my sound technicians Bill and Lu who also designed my website.
 My new book, ‘Tribute’, will be available in 2018.
 
 In the mean time, I will be posting new content to my web pages regularly so do stop by my website or Facebook page.
+
+{% include podcast.html episode_id=18 soundcloud_id=352799507 %}
