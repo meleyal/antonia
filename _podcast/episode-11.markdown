@@ -1,6 +1,6 @@
 ---
 title: 'Episode 11: Something in the air'
-date: 2017-11-05 11:54:00 +00:00
+date: 2017-11-05 11:55:00 +00:00
 ---
 
 As the [BBC recently reported](http://www.bbc.co.uk/news/health-41514011), attacks on staff in mental health settings are at an all time high with more than forty-two thousand incidents recorded in the UK. Attacks recorded include serious injuries and one fatal stabbing and many of the people involved report subsequent severe trauma as a consequence of the attacks. The report also notes more than seventeen thousand recorded assaults by patients on other patients in mental health settings in the UK.
