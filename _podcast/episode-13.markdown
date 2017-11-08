@@ -1,6 +1,6 @@
 ---
 title: 'Episode 13: Fire and Blade and a game of chance...'
-date: 2017-11-05 11:56:00 +00:00
+date: 2017-11-08 11:56:00 +00:00
 ---
 
 In this episode we meet Katie-Mae again. She, and others in the hospital are excited about a game of bingo held in the gym hall. 
