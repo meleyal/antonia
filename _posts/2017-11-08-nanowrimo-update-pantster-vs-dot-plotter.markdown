@@ -1,6 +1,8 @@
 ---
 title: NaNoWriMo update -pantster vs.plotter
 date: 2017-11-08 12:54:00 +00:00
+categories:
+- creative writing process
 tags:
 - writing process
 - writing discipline
