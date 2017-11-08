@@ -1,5 +1,5 @@
 ---
-title: 'Episode 12: Fire and Blade and a game of chance...'
+title: 'Episode 13: Fire and Blade and a game of chance...'
 date: 2017-11-05 11:56:00 +00:00
 published: false
 ---
