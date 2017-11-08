@@ -7,8 +7,6 @@ tags:
 - academic writing
 ---
 
-**What’s in a name?**
-
 Antonia Chain is a pen name, and I also write in my own ‘passport’ name of (Dr) Lel Meleyal. Up until now, I have kept writing in each name distinctly separate. Here I explain why I am ‘coming out’ about my use of both names in my published writing.
 
 Famously, the relevance of a name is central to the love between Romeo and Juliet. Juliet’s impassioned speech (Act 11, scene 11) argues that it should not define, Romeo agrees. Nevertheless, the audience is left in no doubt, even at this stage in the play, that the names of Montague and Capulet have far more power and significance than either of the young lovers tragically appreciate.
