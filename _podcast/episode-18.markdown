@@ -1,5 +1,5 @@
 ---
-title: 'Episode 17: Life goes on...'
+title: 'Episode 18: Life goes on...'
 date: 2017-11-05 12:02:00 +00:00
 published: false
 ---
