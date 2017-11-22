@@ -1,0 +1,23 @@
+---
+title: 'NaNoWriMo: A waste of writing time?'
+date: 2017-11-22 13:16:00 +00:00
+tags:
+- "#nanowrimo #nanowrimo2017 #writerscraft #onwriting #bounce #powerofpractice #10thousandhours
+  #procrastination"
+---
+
+Today I ‘won’ the National Novel Writing Month challenge of achieving 50 thousand words of new writing in a month. I achieved it with more than a week left of the month. It has been hard work. A slog. I haven’t particularly enjoyed it. With the exception of the first week when the thrill of a new storyline was calling, from week two I was developing a whole new expertise in procrastination and something of a compulsion for telling myself fibs that the article I was reading was ‘essential research’. I had days of feeling miserable, experienced guilt about the words I ‘should’ have been writing when ironing was suddenly the most fascinating and essential domestic task ever. Finishing early is evidence of trying to just get it *done, *rather than positive commitment.
+
+The fun of my first NaNoWriMo in 2011 was definitely missing. Back then I took a ‘flying by the seat of my pants’ approach. I did no planning. I would like to pretend this was an active choice but it was blissful newbie ignorance of any other way. That story later became my novel ‘Shadow of the Wing’. I simply started at the beginning of the story and carried on to ‘The End’. At first draft it was something of of a linear and singular narrative lacking in texture or layers of story.
+
+In recent years I have taken my creative writing more seriously and with a commitment to developing my craft. I have given time to my writing process – what works for me, what doesn't. I have thought about what times in the day work best for me and blocked out writing time in my calendar. I have read book after book about how to craft a novel and create a great story. I have entered writing competitions.
+
+This year I invested in some serious planning of my latest new novel ‘Tribute’. Not a word of it was written before the 1st of the month of November – honouring the commitment of NaNo – but I had over 60 scene cards which I hoped provided a framework for a number of stories which would come together in a single thrilling and coherent piece of work. It isn’t finished yet. I think the final first draft will be about 100k words and I will continue until I get to the end of this novel. But…it is currently a really, truly, dreadful piece of work! It is so full of plot holes that do not make sense, a narrator voice all over the place, one-dimensional characters and boring repetition that it will take a huge amount of work to turn it into something that might be called finished. At this point, even if I get to the end I am not even sure I will bother to do anything further with it. And that is OK.
+
+There is, undeniably, a little part of me that is a bit glum and disappointed by this year’s experience of doing NaNo but as Matthew Syed has said in his excellent book ‘Bounce’ developing talent is hard work. He puts forward the view, supported by evidence, that whilst people may or may not have innate talents for any activity, it is the crafting of that talent that is central to success. There is no fast track to excellence. The ‘best’ in any field – be it science, sport, music, chess or academia take on average *ten thousand hours of practice to become the best. *Ten thousand hours is said to be the …’minimum time necessary for the acquisition of expertise in any complex task’ (pp15-16).
+
+Doing NaNoWriMo this year helped me to focus on something I believed at the start would be lush and strong and fabulous. I still believe in the story as one worth telling but the effort of trying to tell it has taught me so much more about the crafting of a good piece of creative writing. It has been extraordinarily good practice. I am not sure that I would have invested so much effort and energy into it without the driver of the 50k words in a month challenge. I may not have come out of NaNoWriMo with a beautifully crafted story but the point is, I can see the plot holes, the dodgy narrator, the boring repetition. I am adding to my own ten thousand words of practice and hopefully, developing my expertise.
+
+\#nanowrimo #nanowrimo2017 #writerscraft #onwriting #bounce #powerofpractice #10thousandhours #procrastination
+
+\*Syed. M (2011)* Bounce: The myth of talent and the power of practice. *4th Estate. St Ives.
