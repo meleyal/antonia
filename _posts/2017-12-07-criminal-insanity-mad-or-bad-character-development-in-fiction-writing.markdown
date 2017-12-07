@@ -1,6 +1,14 @@
 ---
-title: 'Criminal Insanity: Mad or bad - character development in fiction writing'
-date: 2017-12-07 10:07:00 +00:00
+title: 'Criminal insanity: mad or bad - character development in fiction writing'
+date: 2017-12-07 10:13:00 +00:00
+categories:
+- Creative writing
+- mental ill health
+tags:
+- "#characterdevelopment"
+- "#creativewriting"
+- "#psycopath"
+- "#writingmentalhealth"
 ---
 
 When violent and terrible acts are committed by one human being to another people want to understand how such a thing could happen.  What is the motivation of the perpetrator? Why do they behave the way they do? On some subliminal level people may want to feel reassurance that such acts are committed by others ‘not like me’.  The debate about whether people who commit murder are mad or bad is ongoing. Effort to understand may draw upon the discipline of psychology and nature/nurture underpinnings, values related questions of philosophy or theological pondering about how suffering can be explained.\
