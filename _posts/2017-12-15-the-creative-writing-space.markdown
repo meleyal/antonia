@@ -12,7 +12,7 @@ I like to write on a 28” desktop Mac.  I have a dining table size desk though 
 
 Many writers write in public spaces – Kafka and Scott Fitzgerald for example.  Other writers actively promote public spaces as adding an extra layer of inspiration to creativity. Karen E Lee (link below) in her Women Writers, Women’s Books blog post suggests that coffee shops are essential for writers. Against all my better instincts I decided to try something new.
   
-I do not like my laptop.  It is a perfectly good machine but it is small and a tool of convenience rather than preference.  The coffee shop table was too high to type comfortably but I dislike juggling with knees whilst trying to write on a keys slipping off my lap (now I come to think of it, ‘laptop’ is not the best name for them). It was not a relaxing start and even the coffee was not that great but then I heard it.  I wasn't there listening for dialogue or writing prompts but it would seem they fall like confetti in such places.    
+I do not like my laptop.  It is a perfectly good machine but it is small and a tool of convenience rather than preference.  The coffee shop table was too high to type comfortably but I dislike juggling with knees whilst trying to write on keys slipping off my lap (now I come to think of it, ‘laptop’ is not the best name for them). It was not a relaxing start and even the coffee was not that great but then I heard it.  I wasn't there listening for dialogue or writing prompts but it would seem they fall like confetti in such places.    
 
 “I wanted to call my daughter Velvet”.
 
