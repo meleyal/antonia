@@ -25,5 +25,5 @@ Overheard dialogue is disjointed from its context or story and so presents oppor
 
 \#creative writing,  #writingspaces,  #coffeeshopwriter
 
-Lee. KE, 5th April 2017, Real Writers Write in Coffee Shops.  Women Writers, Women’s books. [http://booksbywomen.org/real-writers-write-in-coffee-shops-by-karen-lee/
+Lee. KE, 5th April 2017, Real Writers Write in Coffee Shops.  Women Writers, Women’s Books. [http://booksbywomen.org/real-writers-write-in-coffee-shops-by-karen-lee/
 ](booksbywomen.org/real-writers-write-in-coffee-shops-by-karen-lee/)
