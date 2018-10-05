@@ -1,6 +1,7 @@
 ---
 title: Is it that time already? NaNoWriMo
 date: 2018-10-05 17:07:00 +01:00
+published: false
 tags:
 - NaNoWriMo
 ---
